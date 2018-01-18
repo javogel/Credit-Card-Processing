@@ -1,0 +1,13 @@
+Add Jack 2211111111111111 $5000
+Add John 1154545411545454 $0
+Add Sara 1234567890123400 $100000
+Add Pan 1234567890123400 $1
+Charge Sara $500
+Charge John $800
+Charge Jack $7
+Credit Jack $100
+Credit Sara $200
+Charge Jack $7
+Credit Jack $100
+Credit Sara $200
+Charge Pan $1
