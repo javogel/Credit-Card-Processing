@@ -17,12 +17,12 @@ While there are many improvements that come to mind, such as a Transaction Logge
 
 To run type the following while inside the project folder run:
 
-  'bundle install'
+  `bundle install`
 
 then:
 
-  'ruby ./payments.rb input.txt'
+  `ruby ./payments.rb input.txt`
 
 To run tests:
 
-  'rake test'
+  `rake test`
